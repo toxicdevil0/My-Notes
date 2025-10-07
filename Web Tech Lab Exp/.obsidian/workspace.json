@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "48a15b6cf6fce39f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e69b6cffbdfb86df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "236193203f142980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Tech Lab Exp/Experiment 3- Interactive Forms in HTML.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Experiment 3- Interactive Forms in HTML"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1c35d4573e71ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6df329f2a0db71a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a861f4e665e7cd6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4166f4a623f100ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6e37058892c1268a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88bf165469cffba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "14f3ac5e8a8a4621",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbe478a9c3b1d95d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8d4f36c84fa49e4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "913a09e8614d993f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07d5dde249cb7e07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "236193203f142980",
+  "lastOpenFiles": [
+    "Web Tech Lab Exp/Experiment 4- CSS Styling in MyGym Website.md",
+    "Web Tech Lab Exp/Experiment 3- Interactive Forms in HTML.md",
+    "Web Tech Lab Exp/Exp 3 Screenshots.md",
+    "Web Tech Lab Exp/Experiment 1.md",
+    "Welcome.md",
+    "WebTech Images/exp7 img/Pasted image 20250830130422.png",
+    "WebTech Images/exp7 img/Pasted image 20250830130412.png",
+    "WebTech Images/exp7 img/Pasted image 20250830131141.png",
+    "WebTech Images/exp5 img/Pasted image 20250830124604.png",
+    "WebTech Images/exp5 img/Pasted image 20250830124302.png",
+    "WebTech Images/exp5 img/Pasted image 20250830124622.png",
+    "WebTech Images/exp5 img/Pasted image 20250830124212.png",
+    "WebTech Images/exp6 img/Untitled-1.jpg",
+    "WebTech Images/exp4 img/Pasted image 20250830122655.png",
+    "WebTech Images/exp6 img/Untitled.jpg",
+    "WebTech Images/exp7 img",
+    "WebTech Images/exp5 img",
+    "WebTech Images/exp6 img",
+    "WebTech Images/exp4 img",
+    "WebTech Images/exp3 img",
+    "WebTech Images/exp2 img",
+    "WebTech Images/exp10 img",
+    "WebTech Images",
+    "Web Tech Lab Exp/README_LabExp.md",
+    "Web Tech Lab Exp/Experiment 6- JavaScript for Variables, Conditions, Loops, and Functions.md",
+    "Web Tech Lab Exp/Experiment 7- Access and Modify HTML Elements Dynamically with Events.md",
+    "Web Tech Lab Exp/Experiment 5- Box Model, Positioning, and Flexbox.md",
+    "Web Tech Lab Exp/README.md",
+    "Web Tech Lab Exp/Experiment 2-Basic HTML Elements.md",
+    "Web Tech Lab Exp/Experiment 10- Multi-section Responsive Webpage (Header, Footer, Navigation Bar).md",
+    "Web Tech Lab Exp/Exp 7 Screenshots.md",
+    "Web Tech Lab Exp/Exp 5 Screenshots.md",
+    "Web Tech Lab Exp/Exp 6 Screenshots.md",
+    "Web Tech Lab Exp/Exp 4 Screenshots.md",
+    "Web Tech Lab Exp/Exp 2 Screenshots.md",
+    "Web Tech Lab Exp/Exp 10 Screenshots.md",
+    "Web Tech Lab Exp"
+  ]
+}

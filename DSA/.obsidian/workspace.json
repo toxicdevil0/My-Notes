@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "0fc1d240de2aa28a",
+    "type": "split",
+    "children": [
+      {
+        "id": "55637d743d84a218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "721638fe4f11b9a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode Q503 (Stack) (actually Next Smaller Element).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leetcode Q503 (Stack) (actually Next Smaller Element)"
+            }
+          },
+          {
+            "id": "3497017c8cd8750b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Storing Data/Binary Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Tree"
+            }
+          },
+          {
+            "id": "a8b73604baaf00eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Storing Data/Binary Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Tree"
+            }
+          },
+          {
+            "id": "d033d073a184d94f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-05 01.43.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-05 01.43.53.excalidraw"
+            }
+          },
+          {
+            "id": "27d65da1fcbdb609",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-05 01.36.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-05 01.36.11.excalidraw"
+            }
+          },
+          {
+            "id": "5174dd73a629ac8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Storing Data/Binary Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Tree"
+            }
+          },
+          {
+            "id": "7f6045b029b8abda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode Q1475 (Stack- Final Discounts).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leetcode Q1475 (Stack- Final Discounts)"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c217d4bf0faf578",
+    "type": "split",
+    "children": [
+      {
+        "id": "27e8d042b2b4c32e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a85ae10b7f5a3ac2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "43add0beb5db4f2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d219acc50229583",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "072f14222b4d0820",
+    "type": "split",
+    "children": [
+      {
+        "id": "545f54572d9b0cac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd609a53ca45b9af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4bdd913d2f1720d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a1c40bd5fe32a6d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "45bbcf62b80d9500",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "a8b73604baaf00eb",
+  "lastOpenFiles": [
+    "DSA/Data Structures and Algorithms.md",
+    "DSA/DSA FLOWCHART.canvas",
+    "Exp 6.md",
+    "DSA/Storing Data/Binary Tree.md",
+    "Excalidraw/Drawing 2025-10-05 01.43.53.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-05 01.36.11.excalidraw.md",
+    "Leetcode Q1475 (Stack- Final Discounts).md",
+    "Leetcode Q503 (Stack) (actually Next Smaller Element).md",
+    "Excalidraw/Drawing 2025-10-03 20.45.18.excalidraw.md",
+    "DSA/Algorithms/Binary Search.md",
+    "DSA/Algorithms/Binary Search Questions.md",
+    "Sec-C _ ACE - (Cloud Engineering Certificate).md",
+    "DSA/Storing Data/Singly Linked List.md",
+    "DSA/Storing Data/Linked List.md",
+    "DSA/Algorithms/Linear Search.md",
+    "Excalidraw/Drawing 2025-09-18 20.56.35.excalidraw.md",
+    "Drawing 2025-09-18 22.29.17.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-21 22.51.22.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-21 23.04.55.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-18 20.33.55.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-18 21.51.51.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-14 00.41.09.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-17 03.29.16.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-17 00.51.23.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-14 02.38.26.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-17 01.46.32.excalidraw.md",
+    "iconfinder-serverrack-4417101_116637-2996439199-1.png",
+    "Untitled.canvas",
+    "Pasted image 20250912041746.png",
+    "Excalidraw",
+    "DSA Lab",
+    "DSA/Storing Data",
+    "DSA/Algorithms",
+    "DSA"
+  ]
+}
